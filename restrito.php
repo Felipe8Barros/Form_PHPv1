@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<html lang="pt-br">
 
 <text> <h2> ÁREA RESTRITA </h2> </text>
 
